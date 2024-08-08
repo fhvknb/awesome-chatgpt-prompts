@@ -845,10 +845,6 @@ Contributed by: [@JulianFisla](https://github.com/JulianFisla)
 
 Many thanks to these AI whisperers:
 
-<a href="https://github.com/f/awesome-chatgpt-prompts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=f/awesome-chatgpt-prompts" />
-</a>
-
 # License
 
 CC-0
